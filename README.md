@@ -15,48 +15,51 @@
   </a>
 </p>
 
-<!-- <h1 align="center">Projects</h1>
+<h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Aus StarGazers</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        <a target="_blank" href="https://aus-stargazers.netlify.app/">
+            <img src="https://media.giphy.com/media/FGPakXFd8XNsr62HHI/giphy.gif" width="100%" alt="Aus StarGazers"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/teejcoder/AusStarGazers" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://aus-stargazers.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>Aus StarGazers</strong><br>OFFICIAL NASA APOD Picture Of The Day. Select A Date And View NASA's Picture Of That Day </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+    
+<!--      <td width="50%" valign="top">
+      <h3 align="center">What's The Tea?</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+      <a target="_blank" href="https://whatstheteablog.cyclic.app/">
+            <img src="https://media.giphy.com/media/y2Apv7kdR6AmhZ8kSh/giphy.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  <a href="https://github.com/teejcoder/whats-the-tea-blog" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://codepen.io/ShawnBasquiat/full/bGVWpYw" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://whatstheteablog.cyclic.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>MERN Stack React Blog</strong> <br>
+      Sign Up And Create, Read, Update blog posts!</p>
     </td>
   </tr>
   
+ 
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">ShawnCharles.com</h3>
@@ -94,8 +97,8 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
     </td>
   </tr>
-</table> -->
-<br>
+</table> 
+<br> -->
 
 
 
