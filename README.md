@@ -44,12 +44,12 @@
       <h3 align="center">What's The Tea?</h3>
         <br />
       <a target="_blank" href="https://whatstheteablog.cyclic.app/">
-            <img src="https://media.giphy.com/media/y2Apv7kdR6AmhZ8kSh/giphy.gif" width="100%" height="250" alt="REACT Blog"/>
+            <img src="https://media.giphy.com/media/xsgmnZFCp0NznqMB6l/giphy.gif" width="100%" height="250" alt="REACT Blog"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/teejcoder/whats-the-tea-blog" target="_blank">
+  <a href="https://github.com/teejcoder/whatsTheTeaBlog" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat&logo=github&logo-color=white"/>
   </a>
   <a href="https://whatstheteablog.cyclic.app" target="_blank">
