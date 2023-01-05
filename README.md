@@ -23,7 +23,7 @@
       <h3 align="center">Aus StarGazers</h3>
         <br />
         <a target="_blank" href="https://aus-stargazers.netlify.app/">
-            <img src="https://media.giphy.com/media/FGPakXFd8XNsr62HHI/giphy.gif" width="100%" alt="Aus StarGazers"/>
+            <img src="https://media.giphy.com/media/FGPakXFd8XNsr62HHI/giphy.gif" width="100%" height="250" alt="Aus StarGazers"/>
         </a>
         <br />
         <p align="center">
@@ -38,11 +38,11 @@
         <p><strong>Aus StarGazers</strong><br>OFFICIAL NASA APOD Picture Of The Day. Select A Date And View NASA's Picture Of That Day </p>
     </td>
     
-<!--      <td width="50%" valign="top">
+<td width="50%" valign="top">
       <h3 align="center">What's The Tea?</h3>
         <br />
       <a target="_blank" href="https://whatstheteablog.cyclic.app/">
-            <img src="https://media.giphy.com/media/y2Apv7kdR6AmhZ8kSh/giphy.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://media.giphy.com/media/y2Apv7kdR6AmhZ8kSh/giphy.gif" width="100%" height="250" alt="REACT Blog"/>
         </a>
         <br />
         <p align="center">
@@ -98,7 +98,7 @@
     </td>
   </tr>
 </table> 
-<br> -->
+<br> 
 
 
 
