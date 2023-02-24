@@ -180,7 +180,7 @@
 <br>
 
 <h3> ✍️ Random Quote: </h3>
-<img height="100px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 <br>
 
