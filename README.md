@@ -20,8 +20,7 @@
 <p align="center"> Full Stack Web Developer motivated by emerging technology and its power for positive change. </p>
 <br>
 
-- 🌱 I’m currently working with **REACT UI.**
-- 💬 Ask me about **web development and AI**
+- 🌱 I’m currently working with **Denim Creative Agency.**
 - 📫 How to reach me **teejcoder@gmail.com**
 - 📄 Know about my experiences [linkedin.com/in/tristan-maber/](https://www.linkedin.com/in/tristan-maber/)
 
