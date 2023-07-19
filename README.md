@@ -174,8 +174,7 @@
 <br>
 
 <h3> ✍️ Random Quote: </h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="100">
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="200">
 <br>
 
 <h2 align="center">
