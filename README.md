@@ -11,16 +11,13 @@
   <a href="https://twitter.com/teejcoder" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&amp;message=TWITTER&amp;color=23555f&amp;style=for-the-badge&amp;logo=twitter&amp;logo-color=white" style="max-width: 100%;">
   </a>
-  <a href="https://angel.co/u/tristan-maber" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&amp;message=WELLFOUND&amp;color=cdf998&amp;style=for-the-badge&amp;logo=angellist&amp;logocolor=white" style="max-width: 100%;">
-  </a>
 </p>
   
 <br>
 <p align="center"> Full Stack Web Developer motivated by emerging technology and its power for positive change. </p>
 <br>
 
-- 🌱 I’m currently working with **Denim Digital Agency.**
+- 🌱 I’m currently a Software Engineer with **Denim Agency.**
 - 📫 How to reach me **teejcoder@gmail.com**
 - 📄 Know about my experiences [linkedin.com/in/tristan-maber/](https://www.linkedin.com/in/tristan-maber/)
 
@@ -51,10 +48,10 @@
     </td>
     
 <td width="50%" valign="top">
-      <h3 align="center">What's The Tea?</h3>
+      <h3 align="center">Master Cobblers</h3>
         <br />
-      <a target="_blank" href="https://whatstheteablog.cyclic.app/">
-            <img src="https://media.giphy.com/media/xsgmnZFCp0NznqMB6l/giphy.gif" width="100%" height="250" alt="REACT Blog"/>
+      <a target="_blank" href="https://mastercobblers.com.au/">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z2bXA0dWQ2NTB4N2p3bW8wOGgzYzI5OXhucHQ1NmE1ZzUyamY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J7qjtiJMNJeNyHr97D/giphy-downsized-large.gif" width="100%" height="250" alt="Master Cobblers website gif"/>
         </a>
         <br />
         <p align="center">
