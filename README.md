@@ -56,9 +56,6 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/teejcoder/whatsTheTeaBlog" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat&logo=github&logo-color=white"/>
-  </a>
   <a href="https://whatstheteablog.cyclic.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat&logo=wordpress&logo-color=white"/>
   </a>
