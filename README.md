@@ -61,7 +61,7 @@
   </a>
       </p>
         <p><strong>Master Cobblers</strong> <br>
-      A Gatsby website using JavaScript and Contentful for Master Cobblers.</p>
+      A website built with Gatsby, JavaScript, and Contentful CMS for Master Cobblers.</p>
     </td>
   </tr>
   
