@@ -50,8 +50,8 @@
 <td width="50%" valign="top">
       <h3 align="center">Master Cobblers</h3>
         <br />
-      <a target="_blank" href="https://mastercobblers.com.au/">
-            <img src="https://media.giphy.com/media/J7qjtiJMNJeNyHr97D/giphy.gif" width="100%" height="250" alt="Master Cobblers website gif"/>
+        <a target="_blank" href="https://mastercobblers.com.au/">
+            <img src="https://giphy.com/gifs/J7qjtiJMNJeNyHr97D" width="100%" height="250" alt="Master Cobblers website gif"/>
         </a>
         <br />
         <p align="center">
