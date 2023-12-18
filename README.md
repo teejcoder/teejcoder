@@ -63,8 +63,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>MERN Stack React Blog</strong> <br>
-      Sign Up And Create, Read, Update blog posts!</p>
+        <p><strong>JS, Gatsby, Contentful</strong> <br>
+      Gatsby website for Master Cobblers</p>
     </td>
   </tr>
   
