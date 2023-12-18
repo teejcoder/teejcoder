@@ -51,7 +51,7 @@
       <h3 align="center">Master Cobblers</h3>
         <br />
       <a target="_blank" href="https://mastercobblers.com.au/">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z2bXA0dWQ2NTB4N2p3bW8wOGgzYzI5OXhucHQ1NmE1ZzUyamY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J7qjtiJMNJeNyHr97D/giphy-downsized-large.gif" width="100%" height="250" alt="Master Cobblers website gif"/>
+            <img src="https://media.giphy.com/media/J7qjtiJMNJeNyHr97D/giphy.gif" width="100%" height="250" alt="Master Cobblers website gif"/>
         </a>
         <br />
         <p align="center">
@@ -63,8 +63,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>JS, Gatsby, Contentful</strong> <br>
-      Gatsby website for Master Cobblers</p>
+        <p><strong>Master Cobblers</strong> <br>
+      A Gatsby website using JavaScript and Contentful for Master Cobblers.</p>
     </td>
   </tr>
   
