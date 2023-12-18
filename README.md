@@ -51,7 +51,7 @@
       <h3 align="center">Master Cobblers</h3>
         <br />
       <a target="_blank" href="https://mastercobblers.com.au/">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z2bXA0dWQ2NTB4N2p3bW8wOGgzYzI5OXhucHQ1NmE1ZzUyamY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J7qjtiJMNJeNyHr97D/giphy-downsized-large.gif" width="100%" height="250" alt="Master Cobblers website gif"/>
+            <img src="https://giphy.com/gifs/J7qjtiJMNJeNyHr97D" width="100%" height="250" alt="Master Cobblers website gif"/>
         </a>
         <br />
         <p align="center">
