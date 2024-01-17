@@ -95,7 +95,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Money Bank</strong> A full stack application using JavaScript, React, and Basiq's open banking API to retrieve a user's              financial data and render in charts to see the user's net worth and transaction data for budgeting purposes. 
+        <p><strong>Money Bank</strong> A full stack application using JavaScript, React, and Basiq's open banking API to retrieve a user's financial data and render in charts to see the user's net worth and transaction data for budgeting purposes. 
       </p>
     </td>
   </tr>
