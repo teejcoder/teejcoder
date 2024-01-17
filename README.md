@@ -84,18 +84,18 @@
       <h3 align="center">Money Bank</h3>
       <br />
         <a target="_blank" href="">
-          <img src="https://media.giphy.com/media/qStcKW33t8LOQxF3Tg/giphy.gif" width="100%" height="250" alt="Portfolio"/>
+          <img src="[https://media.giphy.com/media/qStcKW33t8LOQxF3Tg/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdkMnZ6Nnpna3d6ZTZhZ25jMHFtYXpma3R3Z2tmZDViZXdscXZ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GX5tnFBYTC8k260e9I/giphy.gif)" width="100%" height="250" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
   <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=flat&logo=github&logo-color=white"/>
   </a>
-    <a href="[https://media.giphy.com/media/qStcKW33t8LOQxF3Tg/giphy.gif](https://media3.giphy.com/media/        v1.Y2lkPTc5MGI3NjExZTdkMnZ6Nnpna3d6ZTZhZ25jMHFtYXpma3R3Z2tmZDViZXdscXZ3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GX5tnFBYTC8k260e9I/giphy.gif)" target="_blank">
+    <a href="[]()" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Money Bank</strong>A full stack application using JavaScript, React, and Basiq's open banking API to retrieve a user's              financial data to render in charts for the user to see their net worth and transaction data for budgeting purposes. 
+        <p><strong>Money Bank</strong> A full stack application using JavaScript, React, and Basiq's open banking API to retrieve a user's              financial data and render in charts to see the user's net worth and transaction data for budgeting purposes. 
       </p>
     </td>
   </tr>
