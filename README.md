@@ -32,7 +32,7 @@
     <h3 align="center">Q Nails</h3>
       <br />
       <a target="_blank" href="https://qnails.com.au">
-        <img src="https://media.giphy.com/media/Ra6nMGaKp7rmzQ3whh/giphy.gif" width="100%" height="250" alt="Q Nails Website"/>
+        <img src="https://i.giphy.com/VGd6EBzZD8AmJLvSiL.webp" width="100%" height="250" alt="Q Nails Website"/>
       </a>
       <br />
       <p align="center">
