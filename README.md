@@ -158,7 +158,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/teejcoder/teejcoder/edit/main/README.md" target="_blank">
+  <a href="https://tristanmaber.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&amp;message=PORTFOLIO&amp;color=23555f&amp;style=for-the-badge&amp;logo=html5&amp;logo-color=white" style="max-width: 100%;">
   <a href="https://www.linkedin.com/in/tristan-maber" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&amp;message=LINKEDIN&amp;color=cdf998&amp;style=for-the-badge&amp;logo=linkedin&amp;logo-color=white" style="max-width: 100%;">
